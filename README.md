@@ -10,3 +10,7 @@ Besides PHP/MySQL the only requirement is the GD PHP graphics library. If your P
 And restarting your HTTP server, for instance:
 
 > /etc/init.d/apache2 restart
+
+**This is experimental software. Feel free to use it for your board.
+
+There's an instance of this board running at http://paul.16mb.com
